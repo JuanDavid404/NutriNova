@@ -1,0 +1,6 @@
+{
+  "name": "NutriNova",
+  "description": "Plataforma web de nutrición inteligente, explorador de alimentos con desglose de macronutrientes, creador de recetas según ingredientes y calculadora nutricional interactiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
